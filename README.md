@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Hamsa Ibrahem</h1>
-<h2 align="center">A Junior Front-End Web Developer from Syria</h2>
+<h2 align="center">A Junior Android Developer from Syria</h2>
 
 - 📫 How to reach me **hamsa-ibrahem@outlook.com**
 
