@@ -6,7 +6,7 @@
 <section>
     <h2>Bio</h2>
     <p align="left">
-        I'm a Junior Application Developer living in Lattakia, Syria. Holds a high school diploma. I am studying at Tishreen University, Faculty of Informatics Engineering,Department of Software Engineering and Information Systems
+     I am a junior application developer living in Lattakia, Syria. I have a high school diploma. I graduated from Tishreen University, Faculty of Information Engineering, Department of Software Engineering and Information Systems
     </p>
 </section>
 <h3 align="left">Connect with me:</h3>
@@ -54,4 +54,4 @@
 </p>
 <h2>EDUCATION</h2>
 
-- Student at Tishreen University, Faculty of Informatics Engineering.
+-IT Engineer, Faculty of Informatics Engineering.
